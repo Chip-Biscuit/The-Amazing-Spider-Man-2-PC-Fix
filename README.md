@@ -2,7 +2,7 @@
 [![Platform](https://img.shields.io/badge/Windows-x86-blue?style=flat)](#platform)
 [![Config](https://img.shields.io/badge/Config-INI-success?style=flat)](#configuration)
 [![Resolution | Aspect Ratio](https://img.shields.io/badge/Resolution-1080p%20%7C%204K%2B-brightgreen?style=flat)](#resolution-aspect-ratio)
-[![FPS](https://img.shields.io/badge/FPS-Stable-FFA500?style=flat)](#fps)
+[![FPS](https://img.shields.io/badge/FPS-Stable-FFA500?style=flat)](#FPS)
 [![PCGamingWiki - Essential improvements](https://img.shields.io/badge/PCGamingWiki-Essential--improvements-0066cc?style=flat&logo=pcgamingwiki&logoColor=white)](https://www.pcgamingwiki.com/wiki/The_Amazing_Spider-Man_2)
 
 # The Amazing Spider-Man 2 PC Fix
@@ -26,7 +26,7 @@ The default for resolution is set to (1920 x 1080) in the d3d9.ini file. Put the
 Aspect Ratio is (3) 16:9 by default in the d3d9.ini file. If you don’t use 16:9 then simply change this to the number correct for you.
 <br><br>
 
-# fps
+# FPS
 
 The fix has done its best to make the frame rate as smooth as possible for everyone. To do this the dll tricks the game into thinking that it is using an older Nvidia graphics card which the game originally ran well on. The default for FPS is still 60.
 <br><br>
