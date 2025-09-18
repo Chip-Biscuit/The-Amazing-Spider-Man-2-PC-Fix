@@ -1,6 +1,9 @@
 # The Amazing Spider-Man 2 PC Fix
 <br><br>
 
+![ezgif com-animated-gif-maker (2)](https://github.com/user-attachments/assets/325a3e1e-41dc-4664-991a-5f5bd7d7123a)
+
+
 # Instructions
 
 Go to releases and download the latest TheAmazingSpiderMan2Fix.zip, extract the d3d9.dll and d3d9.ini files into your game folder next to the Game.exe file and you are good to go! You can edit the settings you wish to use in the d3d9.ini file.
