@@ -3,7 +3,7 @@
 [![Config](https://img.shields.io/badge/Config-INI-success?style=flat)](#configuration)
 [![Resolution | Aspect Ratio](https://img.shields.io/badge/Resolution-1080p%20%7C%204K%2B-brightgreen?style=flat)](#resolution-aspect-ratio)
 [![FPS](https://img.shields.io/badge/FPS-Stable-FFA500?style=flat)](#FPS)
-[![PCGamingWiki - Essential improvements](https://img.shields.io/badge/PCGamingWiki-Essential--improvements-0066cc?style=flat&logo=pcgamingwiki&logoColor=white)](https://www.pcgamingwiki.com/wiki/The_Amazing_Spider-Man_2)
+[![PCGamingWiki - Essential improvements](https://img.shields.io/badge/PCGamingWiki-FIX-0066cc?style=flat&logo=pcgamingwiki&logoColor=white)](https://www.pcgamingwiki.com/wiki/The_Amazing_Spider-Man_2)
 
 # The Amazing Spider-Man 2 PC Fix
 <br><br>
